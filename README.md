@@ -64,8 +64,9 @@ Each department had its own analytical needs:
 - Explore machine learning to predict sales trends.
 
 ## 📁 Files Included
-dsp_at1_25589351 – Main project report document or submission file.
-csv/ – Folder containing all query results exported as CSV files.
-queries/ – Folder containing all SQL query scripts used in the analysis.
+
+- dsp_at1_25589351 – Main project report document or submission file.
+- csv/ – Folder containing all query results exported as CSV files.
+- queries/ – Folder containing all SQL query scripts used in the analysis.
 
 
