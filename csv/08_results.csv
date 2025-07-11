@@ -1,0 +1,78 @@
+"category_name","product_name","unit_price","avg_unit_price","median_unit_price","price_vs_avg","price_vs_median"
+Beverages,Chai,18.0,46.03,18.00,Below Average,Equal median
+Beverages,Chang,19.0,46.03,18.00,Below Average,Over median
+Beverages,Chartreuse verte,18.0,46.03,18.00,Below Average,Equal median
+Beverages,Côte de Blaye,263.5,46.03,18.00,Over Average,Over median
+Beverages,Guaraná Fantástica,4.5,46.03,18.00,Below Average,Below median
+Beverages,Ipoh Coffee,46.0,46.03,18.00,Below Average,Over median
+Beverages,Lakkalikööri,18.0,46.03,18.00,Below Average,Equal median
+Beverages,Laughing Lumberjack Lager,14.0,46.03,18.00,Below Average,Below median
+Beverages,Outback Lager,15.0,46.03,18.00,Below Average,Below median
+Beverages,Rhönbräu Klosterbier,7.75,46.03,18.00,Below Average,Below median
+Beverages,Sasquatch Ale,14.0,46.03,18.00,Below Average,Below median
+Beverages,Steeleye Stout,18.0,46.03,18.00,Below Average,Equal median
+Condiments,Aniseed Syrup,10.0,22.99,21.05,Below Average,Below median
+Condiments,Chef Anton's Cajun Seasoning,22.0,22.99,21.05,Below Average,Over median
+Condiments,Chef Anton's Gumbo Mix,21.35,22.99,21.05,Below Average,Over median
+Condiments,Genen Shouyu,13.0,22.99,21.05,Below Average,Below median
+Condiments,Grandma's Boysenberry Spread,25.0,22.99,21.05,Over Average,Over median
+Condiments,Gula Malacca,19.45,22.99,21.05,Below Average,Below median
+Condiments,Louisiana Fiery Hot Pepper Sauce,21.05,22.99,21.05,Below Average,Below median
+Condiments,Louisiana Hot Spiced Okra,17.0,22.99,21.05,Below Average,Below median
+Condiments,Northwoods Cranberry Sauce,40.0,22.99,21.05,Over Average,Over median
+Condiments,Original Frankfurter grüne Soße,13.0,22.99,21.05,Below Average,Below median
+Condiments,Sirop d'érable,28.5,22.99,21.05,Over Average,Over median
+Condiments,Vegie-spread,43.9,22.99,21.05,Over Average,Over median
+Confections,Chocolade,12.75,25.16,16.25,Below Average,Below median
+Confections,Gumbär Gummibärchen,31.23,25.16,16.25,Over Average,Over median
+Confections,Maxilaku,20.0,25.16,16.25,Below Average,Over median
+Confections,NuNuCa Nuß-Nougat-Creme,14.0,25.16,16.25,Below Average,Below median
+Confections,Pavlova,17.45,25.16,16.25,Below Average,Over median
+Confections,Schoggi Schokolade,43.9,25.16,16.25,Over Average,Over median
+Confections,Scottish Longbreads,12.5,25.16,16.25,Below Average,Below median
+Confections,Sir Rodney's Marmalade,81.0,25.16,16.25,Over Average,Over median
+Confections,Sir Rodney's Scones,10.0,25.16,16.25,Below Average,Below median
+Confections,Tarte au sucre,49.3,25.16,16.25,Over Average,Over median
+Confections,Teatime Chocolate Biscuits,9.2,25.16,16.25,Below Average,Below median
+Confections,Valkoinen suklaa,16.25,25.16,16.25,Below Average,Equal median
+Confections,Zaanse koeken,9.5,25.16,16.25,Below Average,Below median
+Dairy Products,Camembert Pierrot,34.0,28.73,33.00,Over Average,Over median
+Dairy Products,Flotemysost,21.5,28.73,33.00,Below Average,Below median
+Dairy Products,Geitost,2.5,28.73,33.00,Below Average,Below median
+Dairy Products,Gorgonzola Telino,12.5,28.73,33.00,Below Average,Below median
+Dairy Products,Gudbrandsdalsost,36.0,28.73,33.00,Over Average,Over median
+Dairy Products,Mascarpone Fabioli,32.0,28.73,33.00,Over Average,Below median
+Dairy Products,Mozzarella di Giovanni,34.8,28.73,33.00,Over Average,Over median
+Dairy Products,Queso Cabrales,21.0,28.73,33.00,Below Average,Below median
+Dairy Products,Queso Manchego La Pastora,38.0,28.73,33.00,Over Average,Over median
+Dairy Products,Raclette Courdavault,55.0,28.73,33.00,Over Average,Over median
+Grains/Cereals,Filo Mix,7.0,21.29,20.25,Below Average,Below median
+Grains/Cereals,Gnocchi di nonna Alice,38.0,21.29,20.25,Over Average,Over median
+Grains/Cereals,Gustaf's Knäckebröd,21.0,21.29,20.25,Below Average,Over median
+Grains/Cereals,Ravioli Angelo,19.5,21.29,20.25,Below Average,Below median
+Grains/Cereals,Singaporean Hokkien Fried Mee,14.0,21.29,20.25,Below Average,Below median
+Grains/Cereals,Tunnbröd,9.0,21.29,20.25,Below Average,Below median
+Grains/Cereals,Wimmers gute Semmelknödel,33.25,21.29,20.25,Over Average,Over median
+Meat/Poultry,Alice Mutton,39.0,15.72,15.72,Over Average,Over median
+Meat/Poultry,Mishi Kobe Niku,97.0,15.72,15.72,Over Average,Over median
+Meat/Poultry,Pâté chinois,24.0,15.72,15.72,Over Average,Over median
+Meat/Poultry,Perth Pasties,32.8,15.72,15.72,Over Average,Over median
+Meat/Poultry,Thüringer Rostbratwurst,123.79,15.72,15.72,Over Average,Over median
+Meat/Poultry,Tourtière,7.45,15.72,15.72,Below Average,Below median
+Produce,Longlife Tofu,10.0,29.06,26.63,Below Average,Below median
+Produce,Manjimup Dried Apples,53.0,29.06,26.63,Over Average,Over median
+Produce,Rössle Sauerkraut,45.6,29.06,26.63,Over Average,Over median
+Produce,Tofu,23.25,29.06,26.63,Below Average,Below median
+Produce,Uncle Bob's Organic Dried Pears,30.0,29.06,26.63,Over Average,Over median
+Seafood,Boston Crab Meat,18.4,20.68,16.70,Below Average,Over median
+Seafood,Carnarvon Tigers,62.5,20.68,16.70,Over Average,Over median
+Seafood,Escargots de Bourgogne,13.25,20.68,16.70,Below Average,Below median
+Seafood,Gravad lax,26.0,20.68,16.70,Over Average,Over median
+Seafood,Ikura,31.0,20.68,16.70,Over Average,Over median
+Seafood,Inlagd Sill,19.0,20.68,16.70,Below Average,Over median
+Seafood,Jack's New England Clam Chowder,9.65,20.68,16.70,Below Average,Below median
+Seafood,Konbu,6.0,20.68,16.70,Below Average,Below median
+Seafood,Nord-Ost Matjeshering,25.89,20.68,16.70,Over Average,Over median
+Seafood,Röd Kaviar,15.0,20.68,16.70,Below Average,Below median
+Seafood,Rogede sild,9.5,20.68,16.70,Below Average,Below median
+Seafood,Spegesild,12.0,20.68,16.70,Below Average,Below median
