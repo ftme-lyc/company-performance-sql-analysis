@@ -1,6 +1,6 @@
 # 📊 Company Performance Analysis with SQL
 
-This project analyzes company performance using SQL queries on the **Northwind** database to provide actionable insights for multiple departments including Product, HR, Logistics, and Sales. By answering specific business questions, the project supports data-driven decision-making and operational improvements.
+This project analyzes company performance using SQL queries on the **Northwind** database to provide actionable insights for multiple departments, including Product, HR, Logistics, and Sales. By answering specific business questions, the project supports data-driven decision-making and operational improvements.
 
 ## 🧭 Overview
 
@@ -22,16 +22,11 @@ Each department had its own analytical needs:
 - **Sales Team**: Analyze performance by category and employee.
 - **Logistics Team**: Understand regional supply stock and shipping patterns.
 
----
-
 ## 🗄️ Dataset Information
 
 - **Source**: [Northwind Database](https://github.com/pthom/northwind_psql)  
 - **Tables**: 14, including `Orders`, `Products`, `Employees`, `Order Details`, and `Categories`.
-- **Timeframe**: Data from 1996 to 1998.
 - **Limitations**: Due to the age and structure of the dataset, some insights may not generalize to modern environments.
-
----
 
 ## 📌 Key Variables
 
@@ -41,17 +36,13 @@ Each department had its own analytical needs:
 - **Categories**: `category_id`, `category_name`
 - **Employees**: `employee_id`, `hire_date`, `region`
 
----
-
 ## 🛠️ Setup Instructions
 
 1. Download and install [DBeaver](https://dbeaver.io/) or your preferred SQL client.
 2. Connect to PostgreSQL:
    - New Database Connection → Select PostgreSQL → Enter server details.
 3. Create and load the Northwind schema.
-4. Run SQL queries from the `/sql_queries` folder to generate insights.
-
----
+4. Run SQL queries from the `/queries` folder to generate insights.
 
 ## 📈 Key Insights & Results
 
@@ -60,15 +51,11 @@ Each department had its own analytical needs:
 - **Logistics**: Beverages and condiments need higher stock in Europe and Asia-Pacific due to reorder rates.
 - **Global Performance**: March and April 1998 were peak months. Sweden had the longest shipping delays.
 
----
-
 ## ✅ Project Outcomes
 
 - Delivered SQL-based insights aligned with each department’s goals.
 - Supported decisions on pricing, staffing, and logistics.
 - Demonstrated how structured data analysis can drive performance.
-
----
 
 ## 💡 Recommendations
 
@@ -76,8 +63,9 @@ Each department had its own analytical needs:
 - Integrate customer feedback data for richer insights.
 - Explore machine learning to predict sales trends.
 
----
-
-## 📂 Project Structure
+## 📁 Files Included
+dsp_at1_25589351 – Main project report document or submission file.
+csv/ – Folder containing all query results exported as CSV files.
+queries/ – Folder containing all SQL query scripts used in the analysis.
 
 
